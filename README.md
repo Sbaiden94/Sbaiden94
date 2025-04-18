@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-baiden-a23413165/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sbaiden94)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Sbaiden94.Sbaiden94) 
+### Glad to see you here! 
 
  I'm a DevOps Engineer with extensive experience in designing and implementing automation pipelines for continuous integration and delivery of applications. I'm passionate about building scalable and reliable systems that ensure seamless deployment and release of software.
 
